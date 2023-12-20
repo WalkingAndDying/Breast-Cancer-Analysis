@@ -1,0 +1,264 @@
+"","category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"hsa00140","Metabolism","Lipid metabolism","hsa00140","Steroid hormone biosynthesis","16/244","62/8644",8.54950259351539e-12,2.24851918209455e-09,2.00688324037256e-09,"SRD5A3/SRD5A1/AKR1D1/HSD17B2/UGT1A6/AKR1C2/UGT2B28/HSD3B2/CYP3A5/SULT1E1/UGT2B10/SRD5A2/UGT1A9/AKR1C1/UGT2B11/UGT2B7",16
+"hsa00980","Metabolism","Xenobiotics biodegradation and metabolism","hsa00980","Metabolism of xenobiotics by cytochrome P450","13/244","78/8644",2.26548181963789e-07,2.97910859282383e-05,2.65896024094342e-05,"ALDH3B2/CBR3/UGT1A6/UGT2B28/CYP3A5/UGT2B10/ADH1C/UGT1A9/AKR1C1/UGT2B11/CYP2C9/GSTA3/UGT2B7",13
+"hsa00982","Metabolism","Xenobiotics biodegradation and metabolism","hsa00982","Drug metabolism - cytochrome P450","12/244","72/8644",6.6833102903412e-07,5.85903535453246e-05,5.22939717454768e-05,"FMO4/ALDH3B2/UGT1A6/UGT2B28/CYP3A5/UGT2B10/ADH1C/UGT1A9/UGT2B11/CYP2C9/GSTA3/UGT2B7",12
+"hsa03320","Organismal Systems","Endocrine system","hsa03320","PPAR signaling pathway","12/244","75/8644",1.05423869107212e-06,6.93161939379919e-05,6.18671652918639e-05,"DBI/ACSL1/FABP7/ME1/ACADL/SCD/FADS2/MMP1/FABP6/CYP8B1/HMGCS2/APOA5",12
+"hsa00830","Metabolism","Metabolism of cofactors and vitamins","hsa00830","Retinol metabolism","11/244","68/8644",2.67760598964307e-06,0.000140842075055226,0.000125706554882191,"SDR16C5/UGT1A6/AWAT2/UGT2B28/CYP3A5/UGT2B10/ADH1C/UGT1A9/UGT2B11/CYP2C9/UGT2B7",11
+"hsa05204","Human Diseases","Cancer: overview","hsa05204","Chemical carcinogenesis - DNA adducts","11/244","70/8644",3.59558821022418e-06,0.00015760661654816,0.000140669503663157,"UGT1A6/SULT1A2/AKR1C2/UGT2B28/CYP3A5/UGT2B10/UGT1A9/UGT2B11/CYP2C9/GSTA3/UGT2B7",11
+"hsa00040","Metabolism","Carbohydrate metabolism","hsa00040","Pentose and glucuronate interconversions","8/244","36/8644",5.48518596125709e-06,0.000206086272544373,0.000183939318700802,"AKR1B15/UGT1A6/UGT2B28/UGT2B10/AKR1B10/UGT1A9/UGT2B11/UGT2B7",8
+"hsa04976","Organismal Systems","Digestive system","hsa04976","Bile secretion","12/244","89/8644",6.74978489882529e-06,0.000221899178548881,0.000198052899005005,"ABCC2/ABCC3/ABCC4/UGT1A6/UGT2B28/UGT2B10/SLC5A1/UGT1A9/UGT2B11/UGT2B7/SLC10A1/SLCO1B1",12
+"hsa00860","Metabolism","Metabolism of cofactors and vitamins","hsa00860","Porphyrin metabolism","8/244","43/8644",2.21559651243605e-05,0.000647446536411869,0.000577869031898527,"UGT1A6/UGT2B28/UGT2B10/UGT1A9/HEPHL1/UGT2B11/UGT2B7/CP",8
+"hsa00350","Metabolism","Amino acid metabolism","hsa00350","Tyrosine metabolism","7/244","36/8644",5.43087853410447e-05,0.00142832105446948,0.00127482727695294,"PNMT/ALDH3B2/HPD/DDC/HGD/ADH1C/TH",7
+"hsa01240","Metabolism","Global and overview maps","hsa01240","Biosynthesis of cofactors","14/244","153/8644",0.000102339410043638,0.00244684225831608,0.0021838936305963,"HAAO/KMO/KYNU/NME1/HPD/QPRT/SDR16C5/UGT1A6/UGT2B28/TDO2/UGT2B10/UGT1A9/UGT2B11/UGT2B7",14
+"hsa00053","Metabolism","Carbohydrate metabolism","hsa00053","Ascorbate and aldarate metabolism","6/244","30/8644",0.000159822231636565,0.00350277057670138,0.00312634716271526,"UGT1A6/UGT2B28/UGT2B10/UGT1A9/UGT2B11/UGT2B7",6
+"hsa00480","Metabolism","Metabolism of other amino acids","hsa00480","Glutathione metabolism","8/244","57/8644",0.000179552468732783,0.00363248455974784,0.00324212150019519,"G6PD/GGCT/GGT1/IDH1/IDH2/RRM2/CHAC1/GSTA3",8
+"hsa02010","Environmental Information Processing","Membrane transport","hsa02010","ABC transporters","7/244","45/8644",0.000237785587956568,0.00446697211661267,0.00398693128679058,"ABCC2/ABCC3/ABCC4/ABCC12/ABCA12/ABCC11/DEFB1",7
+"hsa00590","Metabolism","Lipid metabolism","hsa00590","Arachidonic acid metabolism","8/244","61/8644",0.000290367498269353,0.00509111013632265,0.00454399663958356,"GGT1/ALOX15B/CBR3/CYP2J2/HPGD/PLA2G2D/CYP2C9/PLA2G3",8
+"hsa00983","Metabolism","Xenobiotics biodegradation and metabolism","hsa00983","Drug metabolism - other enzymes","9/244","80/8644",0.000396688213518077,0.0065205625097034,0.00581983365885074,"RRM2/NME1/UGT1A6/UGT2B28/UGT2B10/UGT1A9/UGT2B11/GSTA3/UGT2B7",9
+"hsa00380","Metabolism","Amino acid metabolism","hsa00380","Tryptophan metabolism","6/244","42/8644",0.00106392140710101,0.0164594900039745,0.01469067949124,"HAAO/KMO/KYNU/AADAT/TDO2/DDC",6
+"hsa04970","Organismal Systems","Digestive system","hsa04970","Salivary secretion","8/244","93/8644",0.00463700479493775,0.0677517922815905,0.0604708812439251,"TRPV6/GUCY1A2/MUC5B/CAMP/CALML5/AQP5/CD38/ATP2B3",8
+"hsa00561","Metabolism","Lipid metabolism","hsa00561","Glycerolipid metabolism","6/244","63/8644",0.00843335785724411,0.104460125258624,0.0932343723541054,"LIPC/CEL/AKR1B15/AKR1B10/MOGAT2/PNLIPRP3",6
+"hsa04744","Organismal Systems","Sensory system","hsa04744","Phototransduction","4/244","29/8644",0.00844486597877885,0.104460125258624,0.0932343723541054,"PDE6A/GUCY2D/CALML5/CNGB1",4
+"hsa04146","Cellular Processes","Transport and catabolism","hsa04146","Peroxisome","7/244","83/8644",0.00879904954545087,0.104460125258624,0.0932343723541054,"IDH1/ACSL1/IDH2/PIPOX/MPV17L/FAR2/CRAT",7
+"hsa00360","Metabolism","Amino acid metabolism","hsa00360","Phenylalanine metabolism","3/244","16/8644",0.00947630605975383,0.104460125258624,0.0932343723541054,"ALDH3B2/HPD/DDC",3
+"hsa00430","Metabolism","Metabolism of other amino acids","hsa00430","Taurine and hypotaurine metabolism","3/244","16/8644",0.00947630605975383,0.104460125258624,0.0932343723541054,"GGT1/FMO4/GADL1",3
+"hsa00591","Metabolism","Lipid metabolism","hsa00591","Linoleic acid metabolism","4/244","30/8644",0.00953248291333454,0.104460125258624,0.0932343723541054,"CYP2J2/PLA2G2D/CYP2C9/PLA2G3",4
+"hsa00512","Metabolism","Glycan biosynthesis and metabolism","hsa00512","Mucin type O-glycan biosynthesis","4/244","36/8644",0.0179690778557751,0.189034699042754,0.168720183656331,"GALNT12/B3GNT3/ST6GALNAC1/B3GNT6",4
+"hsa00250","Metabolism","Amino acid metabolism","hsa00250","Alanine, aspartate and glutamate metabolism","4/244","37/8644",0.0197127783632763,0.197675905475049,0.17643276734415,"ALDH4A1/ASRGL1/ASS1/RIMKLA",4
+"hsa00770","Metabolism","Metabolism of cofactors and vitamins","hsa00770","Pantothenate and CoA biosynthesis","3/244","21/8644",0.0202937241362218,0.197675905475049,0.17643276734415,"ENPP3/VNN2/GADL1",3
+"hsa04972","Organismal Systems","Digestive system","hsa04972","Pancreatic secretion","7/244","102/8644",0.025034619938479,0.231754230216848,0.206848882683038,"CEL/CLCA2/CPB2/CD38/PLA2G2D/ATP2B3/PLA2G3",7
+"hsa05033","Human Diseases","Substance dependence","hsa05033","Nicotine addiction","4/244","40/8644",0.0255546489592722,0.231754230216848,0.206848882683038,"CACNA1B/GABRE/CHRNA4/GRIN2B",4
+"hsa04978","Organismal Systems","Digestive system","hsa04978","Mineral absorption","5/244","60/8644",0.0266625581819743,0.233741760061975,0.208622823669483,"TRPV6/SLC5A1/HEPHL1/SLC34A1/ATP2B3",5
+"hsa00230","Metabolism","Nucleotide metabolism","hsa00230","Purine metabolism","8/244","128/8644",0.0282482533497606,0.239654536483453,0.213900186655233,"ENPP3/RRM2/NME1/PAPSS2/GUCY1A2/ENTPD2/PDE6A/GUCY2D",8
+"hsa04975","Organismal Systems","Digestive system","hsa04975","Fat digestion and absorption","4/244","43/8644",0.0323353008685527,0.265755754013417,0.237196450450238,"CEL/MOGAT2/PLA2G2D/PLA2G3",4
+"hsa00592","Metabolism","Lipid metabolism","hsa00592","alpha-Linolenic acid metabolism","3/244","26/8644",0.0357997844565798,0.276921862120015,0.247162598570195,"FADS2/PLA2G2D/PLA2G3",3
+"hsa04950","Human Diseases","Endocrine and metabolic disease","hsa04950","Maturity onset diabetes of the young","3/244","26/8644",0.0357997844565798,0.276921862120015,0.247162598570195,"MNX1/NKX2-2/ONECUT1",3
+"hsa05207","Human Diseases","Cancer: overview","hsa05207","Chemical carcinogenesis - receptor activation","11/244","212/8644",0.0376804730168489,0.283141840098036,0.252714149857362,"CDC6/KPNA7/UGT1A6/CACNA1B/UGT2B28/UGT2B10/CHRNA4/UGT1A9/UGT2B11/GSTA3/UGT2B7",11
+"hsa00790","Metabolism","Metabolism of cofactors and vitamins","hsa00790","Folate biosynthesis","3/244","27/8644",0.0394596852811125,0.288274923025906,0.25729560870433,"AKR1B15/AKR1B10/TH",3
+"hsa00601","Metabolism","Glycan biosynthesis and metabolism","hsa00601","Glycosphingolipid biosynthesis - lacto and neolacto series","3/244","28/8644",0.043301829374276,0.307794084471205,0.274717153640499,"B4GALNT2/FUT3/B3GNT3",3
+"hsa05031","Human Diseases","Substance dependence","hsa05031","Amphetamine addiction","5/244","69/8644",0.0448599962047753,0.310478394785682,0.277112995946396,"PPP1R1B/DDC/CALML5/GRIN2B/TH",5
+"hsa05030","Human Diseases","Substance dependence","hsa05030","Cocaine addiction","4/244","49/8644",0.0487753831741698,0.325472244253921,0.290495539198017,"PPP1R1B/DDC/GRIN2B/TH",4
+"hsa04657","Organismal Systems","Immune system","hsa04657","IL-17 signaling pathway","6/244","94/8644",0.0495014820158055,0.325472244253921,0.290495539198017,"S100A9/MMP1/S100A7A/MUC5B/S100A8/S100A7",6
+"hsa01523","Human Diseases","Drug resistance: antineoplastic","hsa01523","Antifolate resistance","3/244","30/8644",0.0515228204420083,0.330500043323126,0.294983028461306,"ABCC2/ABCC3/ABCC4",3
+"hsa05150","Human Diseases","Infectious disease: bacterial","hsa05150","Staphylococcus aureus infection","6/244","96/8644",0.0538520328795696,0.337216301126828,0.300977527121404,"KRT20/FGG/CAMP/DEFB1/KRT24/KRT12",6
+"hsa00052","Metabolism","Carbohydrate metabolism","hsa00052","Galactose metabolism","3/244","32/8644",0.0604397989178203,0.369666677102017,0.329940640359215,"AKR1B15/LCT/AKR1B10",3
+"hsa01210",NA,NA,"hsa01210","2-Oxocarboxylic acid metabolism","3/244","33/8644",0.0651509748813321,0.389425145313417,0.347575775084619,"AADAT/IDH1/IDH2",3
+"hsa01212","Metabolism","Global and overview maps","hsa01212","Fatty acid metabolism","4/244","57/8644",0.0766275929882002,0.447845710131037,0.399718204359501,"ACSL1/ACADL/SCD/FADS2",4
+"hsa00120","Metabolism","Lipid metabolism","hsa00120","Primary bile acid biosynthesis","2/244","17/8644",0.0817364355785766,0.46731918602534,0.417098973318594,"AKR1D1/CYP8B1",2
+"hsa00760","Metabolism","Metabolism of cofactors and vitamins","hsa00760","Nicotinate and nicotinamide metabolism","3/244","37/8644",0.085591843461117,0.478950102771782,0.427479979660226,"ENPP3/QPRT/CD38",3
+"hsa04610","Organismal Systems","Immune system","hsa04610","Complement and coagulation cascades","5/244","86/8644",0.0954524373854886,0.522999813174656,0.466795910898332,"SERPIND1/C8B/FGG/CPB2/FGB",5
+"hsa04726","Organismal Systems","Nervous system","hsa04726","Serotonergic synapse","6/244","115/8644",0.10639915309532,0.571081168654475,0.509710228576938,"ALOX15B/CYP2J2/CACNA1B/DDC/CYP2C9/HTR3A",6
+"hsa05332","Human Diseases","Immune disease","hsa05332","Graft-versus-host disease","3/244","42/8644",0.114416336534712,0.601829930172587,0.537154590468229,"KIR3DL2/KIR3DL1/KIR2DL1",3
+"hsa00071","Metabolism","Lipid metabolism","hsa00071","Fatty acid degradation","3/244","43/8644",0.120572414209674,0.6217753909244,0.554956622678171,"ACSL1/ACADL/ADH1C",3
+"hsa04924","Organismal Systems","Endocrine system","hsa04924","Renin secretion","4/244","69/8644",0.13012963570057,0.652439859096761,0.582325749764169,"REN/CLCA2/GUCY1A2/CALML5",4
+"hsa05230","Human Diseases","Cancer: overview","hsa05230","Central carbon metabolism in cancer","4/244","70/8644",0.135152852911967,0.652439859096761,0.582325749764169,"G6PD/ERBB2/IDH1/IDH2",4
+"hsa00900","Metabolism","Metabolism of terpenoids and polyketides","hsa00900","Terpenoid backbone biosynthesis","2/244","23/8644",0.1364417956286,0.652439859096761,0.582325749764169,"IDI1/HMGCS2",2
+"hsa04614","Organismal Systems","Endocrine system","hsa04614","Renin-angiotensin system","2/244","23/8644",0.1364417956286,0.652439859096761,0.582325749764169,"ACE2/REN",2
+"hsa04973","Organismal Systems","Digestive system","hsa04973","Carbohydrate digestion and absorption","3/244","47/8644",0.146342635603985,0.687287735068715,0.613428716911441,"LCT/TAS1R3/SLC5A1",3
+"hsa01230","Metabolism","Global and overview maps","hsa01230","Biosynthesis of amino acids","4/244","75/8644",0.161397284162269,0.688322859774281,0.614352602480147,"IDH1/IDH2/ASS1/PGK2",4
+"hsa04974","Organismal Systems","Digestive system","hsa04974","Protein digestion and absorption","5/244","103/8644",0.165760742803779,0.688322859774281,0.614352602480147,"ACE2/SLC3A1/COL13A1/KCNJ13/CPB2",5
+"hsa00330","Metabolism","Amino acid metabolism","hsa00330","Arginine and proline metabolism","3/244","50/8644",0.166738947100356,0.688322859774281,0.614352602480147,"ALDH4A1/PRODH/CKMT1A",3
+"hsa04971","Organismal Systems","Digestive system","hsa04971","Gastric acid secretion","4/244","76/8644",0.166856914109044,0.688322859774281,0.614352602480147,"KCNJ1/MYLK3/CALML5/SLC9A4",4
+"hsa04650","Organismal Systems","Immune system","hsa04650","Natural killer cell mediated cytotoxicity","6/244","132/8644",0.169539558641545,0.688322859774281,0.614352602480147,"ULBP2/ULBP3/KIR3DL2/KIR3DL1/KIR2DL1/KIR2DS4",6
+"hsa04728","Organismal Systems","Nervous system","hsa04728","Dopaminergic synapse","6/244","132/8644",0.169539558641545,0.688322859774281,0.614352602480147,"PPP1R1B/CACNA1B/DDC/CALML5/GRIN2B/TH",6
+"hsa04913","Organismal Systems","Endocrine system","hsa04913","Ovarian steroidogenesis","3/244","51/8644",0.173715724797235,0.688322859774281,0.614352602480147,"HSD17B2/CYP2J2/HSD3B2",3
+"hsa04979","Organismal Systems","Digestive system","hsa04979","Cholesterol metabolism","3/244","51/8644",0.173715724797235,0.688322859774281,0.614352602480147,"STARD3/LIPC/PCSK9",3
+"hsa01040","Metabolism","Lipid metabolism","hsa01040","Biosynthesis of unsaturated fatty acids","2/244","27/8644",0.176268592929,0.688322859774281,0.614352602480147,"SCD/FADS2",2
+"hsa04270","Organismal Systems","Circulatory system","hsa04270","Vascular smooth muscle contraction","6/244","134/8644",0.177837848319426,0.688322859774281,0.614352602480147,"MYLK3/GUCY1A2/CALML5/KCNMB2/PLA2G2D/PLA2G3",6
+"hsa04612","Organismal Systems","Immune system","hsa04612","Antigen processing and presentation","4/244","78/8644",0.177969408610841,0.688322859774281,0.614352602480147,"KIR3DL2/KIR3DL1/KIR2DL1/KIR2DS4",4
+"hsa04721","Organismal Systems","Nervous system","hsa04721","Synaptic vesicle cycle","4/244","78/8644",0.177969408610841,0.688322859774281,0.614352602480147,"CACNA1B/ATP6V0A4/SLC6A11/CPLX4",4
+"hsa00020","Metabolism","Carbohydrate metabolism","hsa00020","Citrate cycle (TCA cycle)","2/244","30/8644",0.207183282127775,0.789698597095723,0.704834049038808,"IDH1/IDH2",2
+"hsa00410","Metabolism","Metabolism of other amino acids","hsa00410","beta-Alanine metabolism","2/244","31/8644",0.217616893692215,0.798704133222938,0.712871809920813,"ALDH3B2/GADL1",2
+"hsa01232","Metabolism","Global and overview maps","hsa01232","Nucleotide metabolism","4/244","85/8644",0.218656302617068,0.798704133222938,0.712871809920813,"ENPP3/RRM2/NME1/ENTPD2",4
+"hsa00240","Metabolism","Nucleotide metabolism","hsa00240","Pyrimidine metabolism","3/244","58/8644",0.224565567703807,0.798704133222938,0.712871809920813,"ENPP3/RRM2/NME1",3
+"hsa04742","Organismal Systems","Sensory system","hsa04742","Taste transduction","4/244","86/8644",0.224666247262511,0.798704133222938,0.712871809920813,"ENTPD2/TAS1R3/TAS2R40/HTR3A",4
+"hsa01200","Metabolism","Global and overview maps","hsa01200","Carbon metabolism","5/244","115/8644",0.224730440526606,0.798704133222938,0.712871809920813,"G6PD/IDH1/IDH2/ME1/PGK2",5
+"hsa00920","Metabolism","Energy metabolism","hsa00920","Sulfur metabolism","1/244","10/8644",0.249104406456239,0.862170385009947,0.7695176940453,"PAPSS2",1
+"hsa00051","Metabolism","Carbohydrate metabolism","hsa00051","Fructose and mannose metabolism","2/244","34/8644",0.249144293767133,0.862170385009947,0.7695176940453,"AKR1B15/AKR1B10",2
+"hsa00310","Metabolism","Amino acid metabolism","hsa00310","Lysine degradation","3/244","63/8644",0.262463691056477,0.896466892829265,0.800128545531023,"AADAT/PIPOX/PRDM16",3
+"hsa04921","Organismal Systems","Endocrine system","hsa04921","Oxytocin signaling pathway","6/244","154/8644",0.268554762713061,0.899942690737155,0.80323081862872,"MYLK3/GUCY1A2/KCNJ12/CALML5/CD38/PRKAG3",6
+"hsa00130","Metabolism","Metabolism of cofactors and vitamins","hsa00130","Ubiquinone and other terpenoid-quinone biosynthesis","1/244","11/8644",0.270324990753746,0.899942690737155,0.80323081862872,"HPD",1
+"hsa00010","Metabolism","Carbohydrate metabolism","hsa00010","Glycolysis / Gluconeogenesis","3/244","67/8644",0.293328968504987,0.952413811318661,0.8500631575908,"ALDH3B2/ADH1C/PGK2",3
+"hsa04720","Organismal Systems","Nervous system","hsa04720","Long-term potentiation","3/244","67/8644",0.293328968504987,0.952413811318661,0.8500631575908,"CALML5/PPP1R1A/GRIN2B",3
+"hsa04024","Environmental Information Processing","Signal transduction","hsa04024","cAMP signaling pathway","8/244","225/8644",0.302942555086395,0.97163282911856,0.867216813661953,"ABCC4/PPP1R1B/CALML5/GRIN2B/CNGB1/ATP2B3/CNGA2/CNGB3",8
+"hsa00260","Metabolism","Amino acid metabolism","hsa00260","Glycine, serine and threonine metabolism","2/244","40/8644",0.312356767269256,0.989756985443547,0.88339326697583,"PIPOX/GNMT",2
+"hsa04216","Cellular Processes","Cell growth and death","hsa04216","Ferroptosis","2/244","41/8644",0.322816888128663,0.998833430327511,0.891494316442005,"ACSL1/CP",2
+"hsa05219","Human Diseases","Cancer: specific types","hsa05219","Bladder cancer","2/244","41/8644",0.322816888128663,0.998833430327511,0.891494316442005,"ERBB2/MMP1",2
+"hsa04022","Environmental Information Processing","Signal transduction","hsa04022","cGMP-PKG signaling pathway","6/244","167/8644",0.332721293115701,0.999302193317026,0.891912704061224,"MYLK3/GUCY1A2/CALML5/KCNMB2/CNGB1/ATP2B3",6
+"hsa01524","Human Diseases","Drug resistance: antineoplastic","hsa01524","Platinum drug resistance","3/244","73/8644",0.339981418510154,0.999302193317026,0.891912704061224,"ERBB2/ABCC2/GSTA3",3
+"hsa04915","Organismal Systems","Endocrine system","hsa04915","Estrogen signaling pathway","5/244","137/8644",0.344589562706505,0.999302193317026,0.891912704061224,"KRT20/FKBP5/CALML5/KRT24/KRT12",5
+"hsa04962","Organismal Systems","Excretory system","hsa04962","Vasopressin-regulated water reabsorption","2/244","44/8644",0.353932837309403,0.999302193317026,0.891912704061224,"AQP3/AQP2",2
+"hsa05418","Human Diseases","Cardiovascular disease","hsa05418","Fluid shear stress and atherosclerosis","5/244","139/8644",0.355848553515892,0.999302193317026,0.891912704061224,"SDC1/ASS1/CALML5/GSTA3/CAV3",5
+"hsa04066","Environmental Information Processing","Signal transduction","hsa04066","HIF-1 signaling pathway","4/244","109/8644",0.370273041123947,0.999302193317026,0.891912704061224,"ERBB2/EGLN3/EPO/PGK2",4
+"hsa00514","Metabolism","Glycan biosynthesis and metabolism","hsa00514","Other types of O-glycan biosynthesis","2/244","47/8644",0.384536341728341,0.999302193317026,0.891912704061224,"GALNT12/ST6GAL1",2
+"hsa00620","Metabolism","Carbohydrate metabolism","hsa00620","Pyruvate metabolism","2/244","47/8644",0.384536341728341,0.999302193317026,0.891912704061224,"ME1/ADH1C",2
+"hsa00450","Metabolism","Metabolism of other amino acids","hsa00450","Selenocompound metabolism","1/244","17/8644",0.38567493423961,0.999302193317026,0.891912704061224,"PAPSS2",1
+"hsa04725","Organismal Systems","Nervous system","hsa04725","Cholinergic synapse","4/244","113/8644",0.396025735105578,0.999302193317026,0.891912704061224,"ACHE/KCNJ12/CACNA1B/CHRNA4",4
+"hsa00061","Metabolism","Lipid metabolism","hsa00061","Fatty acid biosynthesis","1/244","18/8644",0.403050072299832,0.999302193317026,0.891912704061224,"ACSL1",1
+"hsa00511","Metabolism","Glycan biosynthesis and metabolism","hsa00511","Other glycan degradation","1/244","18/8644",0.403050072299832,0.999302193317026,0.891912704061224,"NEU4",1
+"hsa04672","Organismal Systems","Immune system","hsa04672","Intestinal immune network for IgA production","2/244","49/8644",0.404590560430527,0.999302193317026,0.891912704061224,"TNFRSF17/PIGR",2
+"hsa00565","Metabolism","Lipid metabolism","hsa00565","Ether lipid metabolism","2/244","50/8644",0.414501044319284,0.999302193317026,0.891912704061224,"PLA2G2D/PLA2G3",2
+"hsa04020","Environmental Information Processing","Signal transduction","hsa04020","Calcium signaling pathway","8/244","253/8644",0.422914823060289,0.999302193317026,0.891912704061224,"ERBB2/FGFR4/MYLK3/CACNA1B/CALML5/CD38/GRIN2B/ATP2B3",8
+"hsa00270","Metabolism","Amino acid metabolism","hsa00270","Cysteine and methionine metabolism","2/244","52/8644",0.434071232764308,0.999302193317026,0.891912704061224,"DNMT3B/GNMT",2
+"hsa00100","Metabolism","Lipid metabolism","hsa00100","Steroid biosynthesis","1/244","20/8644",0.436345675287453,0.999302193317026,0.891912704061224,"CEL",1
+"hsa00510","Metabolism","Glycan biosynthesis and metabolism","hsa00510","N-Glycan biosynthesis","2/244","53/8644",0.443724695818323,0.999302193317026,0.891912704061224,"SRD5A3/ST6GAL1",2
+"hsa04919","Organismal Systems","Endocrine system","hsa04919","Thyroid hormone signaling pathway","4/244","121/8644",0.446936382880742,0.999302193317026,0.891912704061224,"MED24/MED1/DIO2/SLC16A2",4
+"hsa04727","Organismal Systems","Nervous system","hsa04727","GABAergic synapse","3/244","89/8644",0.461853259864096,0.999302193317026,0.891912704061224,"CACNA1B/GABRE/SLC6A11",3
+"hsa04611","Organismal Systems","Immune system","hsa04611","Platelet activation","4/244","124/8644",0.465706251655712,0.999302193317026,0.891912704061224,"MYLK3/GUCY1A2/FGG/FGB",4
+"hsa00220","Metabolism","Amino acid metabolism","hsa00220","Arginine biosynthesis","1/244","22/8644",0.467791362538227,0.999302193317026,0.891912704061224,"ASS1",1
+"hsa00340","Metabolism","Amino acid metabolism","hsa00340","Histidine metabolism","1/244","22/8644",0.467791362538227,0.999302193317026,0.891912704061224,"ALDH3B2",1
+"hsa00515","Metabolism","Glycan biosynthesis and metabolism","hsa00515","Mannose type O-glycan biosynthesis","1/244","23/8644",0.482852706488664,0.999302193317026,0.891912704061224,"B3GAT1",1
+"hsa00534","Metabolism","Glycan biosynthesis and metabolism","hsa00534","Glycosaminoglycan biosynthesis - heparan sulfate / heparin","1/244","24/8644",0.497489516559046,0.999302193317026,0.891912704061224,"HS6ST2",1
+"hsa04977","Organismal Systems","Digestive system","hsa04977","Vitamin digestion and absorption","1/244","24/8644",0.497489516559046,0.999302193317026,0.891912704061224,"AWAT2",1
+"hsa04014","Environmental Information Processing","Signal transduction","hsa04014","Ras signaling pathway","7/244","236/8644",0.501625508425893,0.999302193317026,0.891912704061224,"FGFR4/RASGRF1/EFNA3/CALML5/PLA2G2D/GRIN2B/PLA2G3",7
+"hsa04510","Cellular Processes","Cellular community - eukaryotes","hsa04510","Focal adhesion","6/244","203/8644",0.513239078710158,0.999302193317026,0.891912704061224,"ERBB2/ITGB6/MYLK3/RASGRF1/PIP5K1B/CAV3",6
+"hsa04713","Organismal Systems","Environmental adaptation","hsa04713","Circadian entrainment","3/244","97/8644",0.519208402249153,0.999302193317026,0.891912704061224,"GUCY1A2/CALML5/GRIN2B",3
+"hsa05410","Human Diseases","Cardiovascular disease","hsa05410","Hypertrophic cardiomyopathy","3/244","97/8644",0.519208402249153,0.999302193317026,0.891912704061224,"ITGB6/PRKAG3/CAV3",3
+"hsa04925","Organismal Systems","Endocrine system","hsa04925","Aldosterone synthesis and secretion","3/244","98/8644",0.526147390539429,0.999302193317026,0.891912704061224,"HSD3B2/CALML5/ATP2B3",3
+"hsa00564","Metabolism","Lipid metabolism","hsa00564","Glycerophospholipid metabolism","3/244","99/8644",0.533031182639502,0.999302193317026,0.891912704061224,"ACHE/PLA2G2D/PLA2G3",3
+"hsa04640","Organismal Systems","Immune system","hsa04640","Hematopoietic cell lineage","3/244","99/8644",0.533031182639502,0.999302193317026,0.891912704061224,"EPO/CD24/CD38",3
+"hsa00650","Metabolism","Carbohydrate metabolism","hsa00650","Butanoate metabolism","1/244","27/8644",0.538970271166117,0.999302193317026,0.891912704061224,"HMGCS2",1
+"hsa04966","Organismal Systems","Excretory system","hsa04966","Collecting duct acid secretion","1/244","27/8644",0.538970271166117,0.999302193317026,0.891912704061224,"ATP6V0A4",1
+"hsa04061","Environmental Information Processing","Signaling molecules and interaction","hsa04061","Viral protein interaction with cytokine and cytokine receptor","3/244","100/8644",0.539858757637,0.999302193317026,0.891912704061224,"CCR8/CXCL9/CCL18",3
+"hsa04936","Human Diseases","Endocrine and metabolic disease","hsa04936","Alcoholic liver disease","4/244","142/8644",0.572579852047064,0.999302193317026,0.891912704061224,"LBP/SCD/ADH1C/PRKAG3",4
+"hsa05152","Human Diseases","Infectious disease: bacterial","hsa05152","Tuberculosis","5/244","180/8644",0.578214858796656,0.999302193317026,0.891912704061224,"LBP/CASP10/ATP6V0A4/CAMP/CALML5",5
+"hsa04920","Organismal Systems","Endocrine system","hsa04920","Adipocytokine signaling pathway","2/244","69/8644",0.584463090170184,0.999302193317026,0.891912704061224,"ACSL1/PRKAG3",2
+"hsa00030","Metabolism","Carbohydrate metabolism","hsa00030","Pentose phosphate pathway","1/244","31/8644",0.58902054727023,0.999302193317026,0.891912704061224,"G6PD",1
+"hsa04917","Organismal Systems","Endocrine system","hsa04917","Prolactin signaling pathway","2/244","70/8644",0.592340291807028,0.999302193317026,0.891912704061224,"SOCS7/TH",2
+"hsa04130","Genetic Information Processing","Folding, sorting and degradation","hsa04130","SNARE interactions in vesicular transport","1/244","33/8644",0.611977525873419,0.999302193317026,0.891912704061224,"STX19",1
+"hsa05034","Human Diseases","Substance dependence","hsa05034","Alcoholism","5/244","188/8644",0.61700368911545,0.999302193317026,0.891912704061224,"PPP1R1B/DDC/CALML5/GRIN2B/TH",5
+"hsa04710","Organismal Systems","Environmental adaptation","hsa04710","Circadian rhythm","1/244","34/8644",0.622972472300882,0.999302193317026,0.891912704061224,"PRKAG3",1
+"hsa00500","Metabolism","Carbohydrate metabolism","hsa00500","Starch and sucrose metabolism","1/244","36/8644",0.644040157011586,0.999302193317026,0.891912704061224,"ENPP3",1
+"hsa05171","Human Diseases","Infectious disease: viral","hsa05171","Coronavirus disease - COVID-19","6/244","232/8644",0.644222980323261,0.999302193317026,0.891912704061224,"RPL19/ACE2/C8B/FGG/MMP1/FGB",6
+"hsa04960","Organismal Systems","Excretory system","hsa04960","Aldosterone-regulated sodium reabsorption","1/244","37/8644",0.654130096798897,0.999302193317026,0.891912704061224,"KCNJ1",1
+"hsa04514","Environmental Information Processing","Signaling molecules and interaction","hsa04514","Cell adhesion molecules","4/244","158/8644",0.656768403738875,0.999302193317026,0.891912704061224,"SDC1/CLDN8/CLDN1/CNTNAP2",4
+"hsa05412","Human Diseases","Cardiovascular disease","hsa05412","Arrhythmogenic right ventricular cardiomyopathy","2/244","84/8644",0.691026597110925,0.999302193317026,0.891912704061224,"ITGB6/CAV3",2
+"hsa03440","Genetic Information Processing","Replication and repair","hsa03440","Homologous recombination","1/244","41/8644",0.691720169067503,0.999302193317026,0.891912704061224,"EME1",1
+"hsa04530","Cellular Processes","Cellular community - eukaryotes","hsa04530","Tight junction","4/244","170/8644",0.712175656196389,0.999302193317026,0.891912704061224,"ERBB2/CLDN8/CLDN1/PRKAG3",4
+"hsa04015","Environmental Information Processing","Signal transduction","hsa04015","Rap1 signaling pathway","5/244","210/8644",0.712183224135732,0.999302193317026,0.891912704061224,"FGFR4/EFNA3/CALML5/GRIN2B/LPAR3",5
+"hsa04512","Environmental Information Processing","Signaling molecules and interaction","hsa04512","ECM-receptor interaction","2/244","89/8644",0.721189657933473,0.999302193317026,0.891912704061224,"ITGB6/SDC1",2
+"hsa05417","Human Diseases","Cardiovascular disease","hsa05417","Lipid and atherosclerosis","5/244","215/8644",0.731330141081734,0.999302193317026,0.891912704061224,"LBP/CYP2J2/MMP1/CALML5/CYP2C9",5
+"hsa05032","Human Diseases","Substance dependence","hsa05032","Morphine addiction","2/244","91/8644",0.732544723065712,0.999302193317026,0.891912704061224,"CACNA1B/GABRE",2
+"hsa03050","Genetic Information Processing","Folding, sorting and degradation","hsa03050","Proteasome","1/244","46/8644",0.733036195448506,0.999302193317026,0.891912704061224,"PSMD3",1
+"hsa04930","Human Diseases","Endocrine and metabolic disease","hsa04930","Type II diabetes mellitus","1/244","46/8644",0.733036195448506,0.999302193317026,0.891912704061224,"CACNA1B",1
+"hsa04060","Environmental Information Processing","Signaling molecules and interaction","hsa04060","Cytokine-cytokine receptor interaction","7/244","297/8644",0.739547254077569,0.999302193317026,0.891912704061224,"CXCL17/EPO/BMP3/CCR8/TNFRSF17/CXCL9/CCL18",7
+"hsa05323","Human Diseases","Immune disease","hsa05323","Rheumatoid arthritis","2/244","93/8644",0.743505922583353,0.999302193317026,0.891912704061224,"MMP1/ATP6V0A4",2
+"hsa00280","Metabolism","Amino acid metabolism","hsa00280","Valine, leucine and isoleucine degradation","1/244","48/8644",0.747974219886784,0.999302193317026,0.891912704061224,"HMGCS2",1
+"hsa04371","Environmental Information Processing","Signal transduction","hsa04371","Apelin signaling pathway","3/244","139/8644",0.75702970806655,0.999302193317026,0.891912704061224,"MYLK3/CALML5/PRKAG3",3
+"hsa05110","Human Diseases","Infectious disease: bacterial","hsa05110","Vibrio cholerae infection","1/244","50/8644",0.762079617590888,0.999302193317026,0.891912704061224,"ATP6V0A4",1
+"hsa05144","Human Diseases","Infectious disease: parasitic","hsa05144","Malaria","1/244","50/8644",0.762079617590888,0.999302193317026,0.891912704061224,"SDC1",1
+"hsa04070","Environmental Information Processing","Signal transduction","hsa04070","Phosphatidylinositol signaling system","2/244","97/8644",0.76428085231938,0.999302193317026,0.891912704061224,"PIP5K1B/CALML5",2
+"hsa05215","Human Diseases","Cancer: specific types","hsa05215","Prostate cancer","2/244","97/8644",0.76428085231938,0.999302193317026,0.891912704061224,"ERBB2/SRD5A2",2
+"hsa01522","Human Diseases","Drug resistance: antineoplastic","hsa01522","Endocrine resistance","2/244","98/8644",0.769241966106463,0.999302193317026,0.891912704061224,"ERBB2/MED1",2
+"hsa04750","Organismal Systems","Sensory system","hsa04750","Inflammatory mediator regulation of TRP channels","2/244","98/8644",0.769241966106463,0.999302193317026,0.891912704061224,"CYP2J2/CALML5",2
+"hsa04550","Cellular Processes","Cellular community - eukaryotes","hsa04550","Signaling pathways regulating pluripotency of stem cells","3/244","143/8644",0.773810506134359,0.999302193317026,0.891912704061224,"FGFR4/SOX2/ONECUT1",3
+"hsa04810","Cellular Processes","Cell motility","hsa04810","Regulation of actin cytoskeleton","5/244","229/8644",0.780007339673879,0.999302193317026,0.891912704061224,"FGFR4/ITGB6/MYLK3/PIP5K1B/C8B",5
+"hsa04961","Organismal Systems","Excretory system","hsa04961","Endocrine and other factor-regulated calcium reabsorption","1/244","53/8644",0.781776962438504,0.999302193317026,0.891912704061224,"ATP2B3",1
+"hsa00600","Metabolism","Lipid metabolism","hsa00600","Sphingolipid metabolism","1/244","54/8644",0.787974892966382,0.999302193317026,0.891912704061224,"NEU4",1
+"hsa03460","Genetic Information Processing","Replication and repair","hsa03460","Fanconi anemia pathway","1/244","54/8644",0.787974892966382,0.999302193317026,0.891912704061224,"EME1",1
+"hsa05414","Human Diseases","Cardiovascular disease","hsa05414","Dilated cardiomyopathy","2/244","103/8644",0.792708764495387,0.999302193317026,0.891912704061224,"ITGB6/CAV3",2
+"hsa04625","Organismal Systems","Immune system","hsa04625","C-type lectin receptor signaling pathway","2/244","104/8644",0.797142493717386,0.999302193317026,0.891912704061224,"CALML5/CLEC6A",2
+"hsa04928","Organismal Systems","Endocrine system","hsa04928","Parathyroid hormone synthesis, secretion and action","2/244","106/8644",0.805759686830678,0.999302193317026,0.891912704061224,"GCM1/SLC34A1",2
+"hsa04922","Organismal Systems","Endocrine system","hsa04922","Glucagon signaling pathway","2/244","107/8644",0.809945501889267,0.999302193317026,0.891912704061224,"CALML5/PRKAG3",2
+"hsa05213","Human Diseases","Cancer: specific types","hsa05213","Endometrial cancer","1/244","58/8644",0.811062011985443,0.999302193317026,0.891912704061224,"ERBB2",1
+"hsa04620","Organismal Systems","Immune system","hsa04620","Toll-like receptor signaling pathway","2/244","108/8644",0.814051030257984,0.999302193317026,0.891912704061224,"LBP/CXCL9",2
+"hsa04261","Organismal Systems","Circulatory system","hsa04261","Adrenergic signaling in cardiomyocytes","3/244","154/8644",0.815119685085242,0.999302193317026,0.891912704061224,"CALML5/PPP1R1A/ATP2B3",3
+"hsa04080","Environmental Information Processing","Signaling molecules and interaction","hsa04080","Neuroactive ligand-receptor interaction","8/244","367/8644",0.820115910267139,0.999302193317026,0.891912704061224,"QRFP/GABRE/MC5R/CHRNA4/GRIN2B/UTS2/LPAR3/SLURP1",8
+"hsa04730","Organismal Systems","Nervous system","hsa04730","Long-term depression","1/244","60/8644",0.821648646575971,0.999302193317026,0.891912704061224,"GUCY1A2",1
+"hsa04213","Organismal Systems","Aging","hsa04213","Longevity regulating pathway - multiple species","1/244","61/8644",0.826718279641612,0.999302193317026,0.891912704061224,"PRKAG3",1
+"hsa04330","Environmental Information Processing","Signal transduction","hsa04330","Notch signaling pathway","1/244","62/8644",0.83164438237579,0.999302193317026,0.891912704061224,"DTX4",1
+"hsa04144","Cellular Processes","Transport and catabolism","hsa04144","Endocytosis","5/244","250/8644",0.83996099364149,0.999302193317026,0.891912704061224,"SNF8/FGFR4/EPN3/PIP5K1B/CAV3",5
+"hsa04670","Organismal Systems","Immune system","hsa04670","Leukocyte transendothelial migration","2/244","115/8644",0.840639999474063,0.999302193317026,0.891912704061224,"CLDN8/CLDN1",2
+"hsa04927","Organismal Systems","Endocrine system","hsa04927","Cortisol synthesis and secretion","1/244","65/8644",0.845601416893771,0.999302193317026,0.891912704061224,"HSD3B2",1
+"hsa05416","Human Diseases","Cardiovascular disease","hsa05416","Viral myocarditis","1/244","67/8644",0.854259685922557,0.999302193317026,0.891912704061224,"CAV3",1
+"hsa04152","Environmental Information Processing","Signal transduction","hsa04152","AMPK signaling pathway","2/244","121/8644",0.860646162489073,0.999302193317026,0.891912704061224,"SCD/PRKAG3",2
+"hsa05211","Human Diseases","Cancer: specific types","hsa05211","Renal cell carcinoma","1/244","69/8644",0.862434300194611,0.999302193317026,0.891912704061224,"EGLN3",1
+"hsa05120","Human Diseases","Infectious disease: bacterial","hsa05120","Epithelial cell signaling in Helicobacter pylori infection","1/244","70/8644",0.866348706113272,0.999302193317026,0.891912704061224,"ATP6V0A4",1
+"hsa05016","Human Diseases","Neurodegenerative disease","hsa05016","Huntington disease","6/244","306/8644",0.868728056685993,0.999302193317026,0.891912704061224,"PSMD3/DNAH8/CACNA1B/DNAH11/DNAH3/GRIN2B",6
+"hsa04622","Organismal Systems","Immune system","hsa04622","RIG-I-like receptor signaling pathway","1/244","71/8644",0.870152171906176,0.999302193317026,0.891912704061224,"CASP10",1
+"hsa05223","Human Diseases","Cancer: specific types","hsa05223","Non-small cell lung cancer","1/244","72/8644",0.873847829208741,0.999302193317026,0.891912704061224,"ERBB2",1
+"hsa00562","Metabolism","Carbohydrate metabolism","hsa00562","Inositol phosphate metabolism","1/244","73/8644",0.877438721611106,0.999302193317026,0.891912704061224,"PIP5K1B",1
+"hsa04740","Organismal Systems","Sensory system","hsa04740","Olfactory transduction","9/244","439/8644",0.879017897630284,0.999302193317026,0.891912704061224,"GUCY2D/CALML5/OR56A3/OR2B6/OR52E6/CNGB1/OR4N4/CNGA2/OR4C6",9
+"hsa04115","Cellular Processes","Cell growth and death","hsa04115","p53 signaling pathway","1/244","74/8644",0.880927807123519,0.999302193317026,0.891912704061224,"RRM2",1
+"hsa04918","Organismal Systems","Endocrine system","hsa04918","Thyroid hormone synthesis","1/244","75/8644",0.884317960572977,0.999302193317026,0.891912704061224,"IYD",1
+"hsa05214","Human Diseases","Cancer: specific types","hsa05214","Glioma","1/244","75/8644",0.884317960572977,0.999302193317026,0.891912704061224,"CALML5",1
+"hsa05133","Human Diseases","Infectious disease: bacterial","hsa05133","Pertussis","1/244","76/8644",0.887611975933019,0.999302193317026,0.891912704061224,"CALML5",1
+"hsa05212","Human Diseases","Cancer: specific types","hsa05212","Pancreatic cancer","1/244","76/8644",0.887611975933019,0.999302193317026,0.891912704061224,"ERBB2",1
+"hsa05020","Human Diseases","Neurodegenerative disease","hsa05020","Prion disease","5/244","272/8644",0.887749218804147,0.999302193317026,0.891912704061224,"PSMD3/C8B/CACNA1B/GRIN2B/CAV3",5
+"hsa05100","Human Diseases","Infectious disease: bacterial","hsa05100","Bacterial invasion of epithelial cells","1/244","77/8644",0.890812568588521,0.999302193317026,0.891912704061224,"CAV3",1
+"hsa04142","Cellular Processes","Transport and catabolism","hsa04142","Lysosome","2/244","132/8644",0.891476570600308,0.999302193317026,0.891912704061224,"CTSE/ATP6V0A4",2
+"hsa01521","Human Diseases","Drug resistance: antineoplastic","hsa01521","EGFR tyrosine kinase inhibitor resistance","1/244","79/8644",0.896943967530424,0.999302193317026,0.891912704061224,"ERBB2",1
+"hsa03018","Genetic Information Processing","Folding, sorting and degradation","hsa03018","RNA degradation","1/244","79/8644",0.896943967530424,0.999302193317026,0.891912704061224,"MPHOSPH6",1
+"hsa04910","Organismal Systems","Endocrine system","hsa04910","Insulin signaling pathway","2/244","137/8644",0.903292577699929,0.999302193317026,0.891912704061224,"CALML5/PRKAG3",2
+"hsa05322","Human Diseases","Immune disease","hsa05322","Systemic lupus erythematosus","2/244","137/8644",0.903292577699929,0.999302193317026,0.891912704061224,"C8B/GRIN2B",2
+"hsa04613","Organismal Systems","Immune system","hsa04613","Neutrophil extracellular trap formation","3/244","191/8644",0.910311262647893,0.999302193317026,0.891912704061224,"FGG/CAMP/FGB",3
+"hsa03083","Genetic Information Processing","Chromosome","hsa03083","Polycomb repressive complex","1/244","84/8644",0.91081345948605,0.999302193317026,0.891912704061224,"CBX2",1
+"hsa04062","Organismal Systems","Immune system","hsa04062","Chemokine signaling pathway","3/244","192/8644",0.91212160435423,0.999302193317026,0.891912704061224,"CCR8/CXCL9/CCL18",3
+"hsa04012","Environmental Information Processing","Signal transduction","hsa04012","ErbB signaling pathway","1/244","85/8644",0.913355692650233,0.999302193317026,0.891912704061224,"ERBB2",1
+"hsa04814","Cellular Processes","Cell motility","hsa04814","Motor proteins","3/244","193/8644",0.913898838907336,0.999302193317026,0.891912704061224,"DNAH8/DNAH11/DNAH3",3
+"hsa05202","Human Diseases","Cancer: overview","hsa05202","Transcriptional misregulation in cancer","3/244","193/8644",0.913898838907336,0.999302193317026,0.891912704061224,"MYCN/HPGD/PAX7",3
+"hsa04911","Organismal Systems","Endocrine system","hsa04911","Insulin secretion","1/244","86/8644",0.915825748847609,0.999302193317026,0.891912704061224,"KCNMB2",1
+"hsa05017","Human Diseases","Neurodegenerative disease","hsa05017","Spinocerebellar ataxia","2/244","143/8644",0.915889811632205,0.999302193317026,0.891912704061224,"PSMD3/GRIN2B",2
+"hsa04540","Cellular Processes","Cellular community - eukaryotes","hsa04540","Gap junction","1/244","88/8644",0.920557436834914,0.999302193317026,0.891912704061224,"GUCY1A2",1
+"hsa04211","Organismal Systems","Aging","hsa04211","Longevity regulating pathway","1/244","89/8644",0.922822979776976,0.999302193317026,0.891912704061224,"PRKAG3",1
+"hsa04072","Environmental Information Processing","Signal transduction","hsa04072","Phospholipase D signaling pathway","2/244","148/8644",0.925197249907313,0.999302193317026,0.891912704061224,"PIP5K1B/LPAR3",2
+"hsa04723","Organismal Systems","Nervous system","hsa04723","Retrograde endocannabinoid signaling","2/244","148/8644",0.925197249907313,0.999302193317026,0.891912704061224,"CACNA1B/GABRE",2
+"hsa04520","Cellular Processes","Cellular community - eukaryotes","hsa04520","Adherens junction","1/244","93/8644",0.931259587252339,0.999302193317026,0.891912704061224,"ERBB2",1
+"hsa04912","Organismal Systems","Endocrine system","hsa04912","GnRH signaling pathway","1/244","93/8644",0.931259587252339,0.999302193317026,0.891912704061224,"CALML5",1
+"hsa04010","Environmental Information Processing","Signal transduction","hsa04010","MAPK signaling pathway","5/244","301/8644",0.931719447310456,0.999302193317026,0.891912704061224,"ERBB2/FGFR4/RASGRF1/EFNA3/CACNA1B",5
+"hsa05205","Human Diseases","Cancer: overview","hsa05205","Proteoglycans in cancer","3/244","205/8644",0.932822173623025,0.999302193317026,0.891912704061224,"ERBB2/SDC1/CAV3",3
+"hsa04148",NA,NA,"hsa04148","Efferocytosis","2/244","156/8644",0.938101653903147,0.999302193317026,0.891912704061224,"EPO/CD24",2
+"hsa04666","Organismal Systems","Immune system","hsa04666","Fc gamma R-mediated phagocytosis","1/244","97/8644",0.938777311324288,0.999302193317026,0.891912704061224,"PIP5K1B",1
+"hsa04390","Environmental Information Processing","Signal transduction","hsa04390","Hippo signaling pathway","2/244","157/8644",0.939558215882794,0.999302193317026,0.891912704061224,"NKD1/SOX2",2
+"hsa05231","Human Diseases","Cancer: overview","hsa05231","Choline metabolism in cancer","1/244","98/8644",0.940525098388389,0.999302193317026,0.891912704061224,"PIP5K1B",1
+"hsa05160","Human Diseases","Infectious disease: viral","hsa05160","Hepatitis C","2/244","158/8644",0.940982315866014,0.999302193317026,0.891912704061224,"CLDN8/CLDN1",2
+"hsa04151","Environmental Information Processing","Signal transduction","hsa04151","PI3K-Akt signaling pathway","6/244","359/8644",0.944067464656488,0.999302193317026,0.891912704061224,"ERBB2/FGFR4/ITGB6/EPO/EFNA3/LPAR3",6
+"hsa04916","Organismal Systems","Endocrine system","hsa04916","Melanogenesis","1/244","101/8644",0.945475866519813,0.999302193317026,0.891912704061224,"CALML5",1
+"hsa05161","Human Diseases","Infectious disease: viral","hsa05161","Hepatitis B","2/244","162/8644",0.946367170034317,0.999302193317026,0.891912704061224,"CASP10/SLC10A1",2
+"hsa05146","Human Diseases","Infectious disease: parasitic","hsa05146","Amoebiasis","1/244","102/8644",0.947033151849225,0.999302193317026,0.891912704061224,"C8B",1
+"hsa04064","Environmental Information Processing","Signal transduction","hsa04064","NF-kappa B signaling pathway","1/244","104/8644",0.950016074313936,0.999302193317026,0.891912704061224,"LBP",1
+"hsa04630","Environmental Information Processing","Signal transduction","hsa04630","JAK-STAT signaling pathway","2/244","166/8644",0.951283594482745,0.999302193317026,0.891912704061224,"EPO/SOCS7",2
+"hsa05208","Human Diseases","Cancer: overview","hsa05208","Chemical carcinogenesis - reactive oxygen species","3/244","223/8644",0.954149020791574,0.999302193317026,0.891912704061224,"AKR1C2/AKR1C1/GSTA3",3
+"hsa03013","Genetic Information Processing","Translation","hsa03013","Nucleocytoplasmic transport","1/244","108/8644",0.955489253685365,0.999302193317026,0.891912704061224,"KPNA7",1
+"hsa04659","Organismal Systems","Immune system","hsa04659","Th17 cell differentiation","1/244","108/8644",0.955489253685365,0.999302193317026,0.891912704061224,"IRF4",1
+"hsa04931","Human Diseases","Endocrine and metabolic disease","hsa04931","Insulin resistance","1/244","108/8644",0.955489253685365,0.999302193317026,0.891912704061224,"PRKAG3",1
+"hsa04310","Environmental Information Processing","Signal transduction","hsa04310","Wnt signaling pathway","2/244","174/8644",0.959859745987533,0.999302193317026,0.891912704061224,"NKD1/DKK1",2
+"hsa04714","Organismal Systems","Environmental adaptation","hsa04714","Thermogenesis","3/244","232/8644",0.962270666813655,0.999302193317026,0.891912704061224,"ACSL1/PRDM16/PRKAG3",3
+"hsa04668","Environmental Information Processing","Signal transduction","hsa04668","TNF signaling pathway","1/244","114/8644",0.962599988871231,0.999302193317026,0.891912704061224,"CASP10",1
+"hsa05022","Human Diseases","Neurodegenerative disease","hsa05022","Pathways of neurodegeneration - multiple diseases","8/244","476/8644",0.963086586637182,0.999302193317026,0.891912704061224,"PSMD3/DNAH8/DKK1/CACNA1B/DNAH11/DNAH3/CALML5/GRIN2B",8
+"hsa04724","Organismal Systems","Nervous system","hsa04724","Glutamatergic synapse","1/244","115/8644",0.963669813339627,0.999302193317026,0.891912704061224,"GRIN2B",1
+"hsa03082","Genetic Information Processing","Chromosome","hsa03082","ATP-dependent chromatin remodeling","1/244","117/8644",0.96571888601715,0.999302193317026,0.891912704061224,"CECR2",1
+"hsa04360","Organismal Systems","Development and regeneration","hsa04360","Axon guidance","2/244","182/8644",0.966982158267284,0.999302193317026,0.891912704061224,"EFNA3/SEMA3E",2
+"hsa04722","Organismal Systems","Nervous system","hsa04722","Neurotrophin signaling pathway","1/244","119/8644",0.967652835111483,0.999302193317026,0.891912704061224,"CALML5",1
+"hsa04935","Organismal Systems","Endocrine system","hsa04935","Growth hormone synthesis, secretion and action","1/244","120/8644",0.96857866598923,0.999302193317026,0.891912704061224,"MRAP2",1
+"hsa05167","Human Diseases","Infectious disease: viral","hsa05167","Kaposi sarcoma-associated herpesvirus infection","2/244","194/8644",0.975440434783434,0.999302193317026,0.891912704061224,"CCR8/CALML5",2
+"hsa04926","Organismal Systems","Endocrine system","hsa04926","Relaxin signaling pathway","1/244","129/8644",0.975809068392966,0.999302193317026,0.891912704061224,"MMP1",1
+"hsa04068","Environmental Information Processing","Signal transduction","hsa04068","FoxO signaling pathway","1/244","131/8644",0.977175681140411,0.999302193317026,0.891912704061224,"PRKAG3",1
+"hsa04114","Cellular Processes","Cell growth and death","hsa04114","Oocyte meiosis","1/244","131/8644",0.977175681140411,0.999302193317026,0.891912704061224,"CALML5",1
+"hsa05130","Human Diseases","Infectious disease: bacterial","hsa05130","Pathogenic Escherichia coli infection","2/244","198/8644",0.977763991185831,0.999302193317026,0.891912704061224,"CLDN8/CLDN1",2
+"hsa05206","Human Diseases","Cancer: overview","hsa05206","MicroRNAs in cancer","4/244","310/8644",0.977872829223537,0.999302193317026,0.891912704061224,"ERBB2/DNMT3B/EFNA3/IGF2BP1",4
+"hsa05014","Human Diseases","Neurodegenerative disease","hsa05014","Amyotrophic lateral sclerosis","5/244","364/8644",0.978960199916773,0.999302193317026,0.891912704061224,"PSMD3/DNAH8/DNAH11/DNAH3/GRIN2B",5
+"hsa00190","Metabolism","Energy metabolism","hsa00190","Oxidative phosphorylation","1/244","134/8644",0.979082759755582,0.999302193317026,0.891912704061224,"ATP6V0A4",1
+"hsa04210","Cellular Processes","Cell growth and death","hsa04210","Apoptosis","1/244","136/8644",0.980265116834669,0.999302193317026,0.891912704061224,"CASP10",1
+"hsa05415","Human Diseases","Cardiovascular disease","hsa05415","Diabetic cardiomyopathy","2/244","203/8644",0.980371478068658,0.999302193317026,0.891912704061224,"G6PD/REN",2
+"hsa05135","Human Diseases","Infectious disease: bacterial","hsa05135","Yersinia infection","1/244","137/8644",0.98083109138713,0.999302193317026,0.891912704061224,"PIP5K1B",1
+"hsa05012","Human Diseases","Neurodegenerative disease","hsa05012","Parkinson disease","3/244","266/8644",0.982313345340627,0.999302193317026,0.891912704061224,"PSMD3/CALML5/TH",3
+"hsa05224","Human Diseases","Cancer: specific types","hsa05224","Breast cancer","1/244","147/8644",0.98567341445875,0.999302193317026,0.891912704061224,"ERBB2",1
+"hsa05226","Human Diseases","Cancer: specific types","hsa05226","Gastric cancer","1/244","149/8644",0.986484452610415,0.999302193317026,0.891912704061224,"ERBB2",1
+"hsa04145","Cellular Processes","Transport and catabolism","hsa04145","Phagosome","1/244","152/8644",0.98761606354252,0.999302193317026,0.891912704061224,"ATP6V0A4",1
+"hsa04932","Human Diseases","Endocrine and metabolic disease","hsa04932","Non-alcoholic fatty liver disease","1/244","155/8644",0.988653284242454,0.999302193317026,0.891912704061224,"PRKAG3",1
+"hsa04934","Human Diseases","Endocrine and metabolic disease","hsa04934","Cushing syndrome","1/244","155/8644",0.988653284242454,0.999302193317026,0.891912704061224,"HSD3B2",1
+"hsa04218","Cellular Processes","Cell growth and death","hsa04218","Cellular senescence","1/244","156/8644",0.98897942379303,0.999302193317026,0.891912704061224,"CALML5",1
+"hsa04110","Cellular Processes","Cell growth and death","hsa04110","Cell cycle","1/244","157/8644",0.98929622640784,0.999302193317026,0.891912704061224,"CDC6",1
+"hsa04140","Cellular Processes","Transport and catabolism","hsa04140","Autophagy - animal","1/244","165/8644",0.991524930704758,0.999302193317026,0.891912704061224,"TP53INP2",1
+"hsa03010","Genetic Information Processing","Translation","hsa03010","Ribosome","1/244","167/8644",0.992005714088688,0.999302193317026,0.891912704061224,"RPL19",1
+"hsa05225","Human Diseases","Cancer: specific types","hsa05225","Hepatocellular carcinoma","1/244","168/8644",0.992235819758425,0.999302193317026,0.891912704061224,"GSTA3",1
+"hsa04141","Genetic Information Processing","Folding, sorting and degradation","hsa04141","Protein processing in endoplasmic reticulum","1/244","170/8644",0.992676428645684,0.999302193317026,0.891912704061224,"LMAN1L",1
+"hsa05164","Human Diseases","Infectious disease: viral","hsa05164","Influenza A","1/244","171/8644",0.99288730325159,0.999302193317026,0.891912704061224,"KPNA7",1
+"hsa04621","Organismal Systems","Immune system","hsa04621","NOD-like receptor signaling pathway","1/244","186/8644",0.995413067319252,0.999302193317026,0.891912704061224,"CAMP",1
+"hsa05010","Human Diseases","Neurodegenerative disease","hsa05010","Alzheimer disease","4/244","384/8644",0.995562989558586,0.999302193317026,0.891912704061224,"PSMD3/DKK1/CALML5/GRIN2B",4
+"hsa05169","Human Diseases","Infectious disease: viral","hsa05169","Epstein-Barr virus infection","1/244","202/8644",0.997129672923187,0.999302193317026,0.891912704061224,"PSMD3",1
+"hsa05203","Human Diseases","Cancer: overview","hsa05203","Viral carcinogenesis","1/244","204/8644",0.997293207348033,0.999302193317026,0.891912704061224,"CCR8",1
+"hsa05170","Human Diseases","Infectious disease: viral","hsa05170","Human immunodeficiency virus 1 infection","1/244","212/8644",0.997859633747634,0.999302193317026,0.891912704061224,"CALML5",1
+"hsa05163","Human Diseases","Infectious disease: viral","hsa05163","Human cytomegalovirus infection","1/244","225/8644",0.998539228369534,0.999302193317026,0.891912704061224,"CALML5",1
+"hsa05165","Human Diseases","Infectious disease: viral","hsa05165","Human papillomavirus infection","2/244","331/8644",0.999302193317026,0.999302193317026,0.891912704061224,"ITGB6/ATP6V0A4",2
